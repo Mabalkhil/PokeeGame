@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					5017D2531F1E9ACD005C7B2B = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = V5FRPM9FHU;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,6 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = V5FRPM9FHU;
 				INFOPLIST_FILE = PokeGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = M.Abalkhil.PokeGame;
@@ -274,6 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = V5FRPM9FHU;
 				INFOPLIST_FILE = PokeGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = M.Abalkhil.PokeGame;
